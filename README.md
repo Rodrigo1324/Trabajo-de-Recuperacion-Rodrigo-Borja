@@ -1,6 +1,6 @@
 # Informe N.-7 Características de la Onda Senoidal
 
-Andrés Altamirano, Rodrigo Borja, Jefferson Galarza.
+Rodrigo Borja
 
 **1. PLANTEAMIENTO DEL PROBLEMA**
 
