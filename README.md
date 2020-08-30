@@ -1,4 +1,4 @@
-# Informe N.-7 Características de la Onda Senoidal
+# Informe 
 
 Rodrigo Borja
 
