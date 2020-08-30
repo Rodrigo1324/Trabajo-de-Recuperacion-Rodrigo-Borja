@@ -66,7 +66,7 @@ Los cálculos se realizaron como se muestra en esta<html> <body> <a href="https:
 
 **11. CRONOGRAMA**
 
-![https://github.com/Rodrigo1324/Trabajo-de-Recuperacion-Rodrigo-Borja/blob/master/Imagenes/Cronograma.png](https://github.com/Rodrigo1324/Trabajo-de-Recuperacion-Rodrigo-Borja/blob/master/Imagenes/Cronograma.png)
+![]()
 
 *Figura 10. Cronograma de la distribución de actividades.*
 
