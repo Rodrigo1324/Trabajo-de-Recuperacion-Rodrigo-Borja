@@ -30,7 +30,7 @@ De esta manera, dicha página esta dividido por 8 aplicaciones o juegos interact
 2) Laberinto
 3) Pájaro
 4) Tortuga
-5) Pelicula
+5) Película
 6) Música
 7) Tutor del Estanque
 8) Estanque
@@ -39,7 +39,7 @@ De esta manera, dicha página esta dividido por 8 aplicaciones o juegos interact
 
 *Figura 1. Pagina de inicio de Blockly Games.*
 
-A continuación, hablaremos de cada aplicación que tiene la página Web y como tiene relación con el lenguaje de programación.
+A continuación, hablaremos de cada aplicación que tiene la página Web y como esta tiene relación con el lenguaje de programación.
 
 **3.1 Rompecabezas**
 --------------------
