@@ -18,13 +18,14 @@ Este trabajo esta orientado el uso de las opciones presentadas en la plataforma 
  
   - Exponer las acciones realizadas en cada aplicación relacionando con las estructuras de control para la compresión de como es la ejecución de la plataforma.
   
-  - Interpretar las ejecuciones de las estructuras de control empleadas en cada uno de las aplicaciones fomentando el empleo de todas,en  lineas de codigo o estructuras; efectuando acciones así por nuestra cuenta.
+  - Interpretar las ejecuciones de las estructuras de control empleadas en cada uno de las aplicaciones fomentando el empleo de todas,en  líneas de código o estructuras; efectuando acciones así por nuestra cuenta.
 
 **3. MARCO TEÓRICO**
 
-Blockly Games es una pagina web que brinda una interacción dinámica al usuario para el aprendizaje del Área de Programación.Cabe destacar que,Blockly Games está orientado en ayudar aprender habilidades en informática para prosperar en este mundo dirigido a estos conocimienstos tecnologicos que cambian rapidamente. Basandose en el hecho de que los jovenes estudiantes no reciben la educación en Ciencias de la Computación que necesitan, y la par los maestros no disponen de herramientas necesarias para inclinar a una satisfactoria enseñanza.
-Igualmente, esta diseñado para la enseñanza de conceptos básicos de informática y relacion de estos, dado por cada aplicación que tiene blockly games para la libre libertad del desarrollo propio del estudiante.
-De esta manera, dicha página esta dividido por 8 aplicaciones o juegos interactivos que forjan las habilidades e interes a la programación de computadores; conformadas por niveles como: 
+Blockly Games es una página web que brinda una interacción dinámica al usuario para el aprendizaje del Área de Programación.Cabe destacar que,"Blockly Games" está orientado en ayudar aprender habilidades en informática para prosperar en este mundo dirigido a estos conocimientos tecnológicos que cambian rapidamente. Basandose en el hecho de que los jovenes estudiantes no reciben la educación en Ciencias de la Computación que necesitan, y la par los maestros no disponen de herramientas necesarias para inclinar a una satisfactoria enseñanza.
+
+Igualmente, esta diseñado para la enseñanza de conceptos básicos de informática y relacion de estos, dado por cada aplicación que tiene "blockly games" para la libertad del desarrollo propio del estudiante.
+De esta manera, dicha página esta dividido por 8 aplicaciones o juegos interactivos que forjan las habilidades e interes a la programación de computadores.Estas estan conformadas por niveles como: 
 1) Rompecabezas
 2) Laberinto
 3) Pájaro
