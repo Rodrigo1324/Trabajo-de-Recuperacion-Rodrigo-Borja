@@ -10,11 +10,11 @@ Este trabajo esta orientado el uso de las opciones presentadas en la plataforma 
 
   **General**
   
-  - Explicar el uso de las opciones presentes en la Plataforma Blockly Games mediante un video ilustrativo.
+  - Explicar el uso de las opciones presentes en la Plataforma "Blockly Games" mediante un video ilustrativo.
   
   **Específicos**
   
-  - Esquematizar el uso de las aplicaciones que nos presenta la plataforma Blockly Games mediante la apreciación de cada uno de estos y la relación que tiene con la programación de computadoras.
+  - Esquematizar el uso de las aplicaciones que nos presenta la plataforma "Blockly Games" mediante la apreciación de cada uno de estos y la relación que tiene con la programación de computadoras.
  
   - Exponer las acciones realizadas en cada aplicación relacionando con las estructuras de control para la compresión de como es la ejecución de la plataforma.
   
