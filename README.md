@@ -28,7 +28,7 @@ De esta manera, dicha página esta dividido por 8 aplicaciones o juegos interact
 1) Rompecabezas
 2) Laberinto
 3) Pájaro
-4= Tortuga
+4) Tortuga
 5) Pelicula
 6) Música
 7) Tutor del Estanque
@@ -56,7 +56,7 @@ Rompecabezas esta diseñado para el aprendizaje del dinamismo de la página web,
 
 *Figura 3. Laberinto.*
 
-Laberinto es una introduccián a las sentencias, estructuras de control como: Alternativas, Repetitiva; y como estos se relacionan con la ejecución de cada programa. Aumentando la dificultad de este aplicativo situando al usuario en dichas .
+Laberinto es una introduccián a las sentencias, estructuras de control como: Alternativas, Repetitiva; y como estos se relacionan con la ejecución de cada programa. Aumentando la dificultad de este aplicativo situando al usuario en dichas sentencias.
 
 ALTERNATIVAS
 ------------
@@ -75,7 +75,7 @@ Las estructuras de control Simple (si-if) permite escoger entre realizar una acc
 Dobles
 ------
 
-Las estructuras de control Dobles (si o if - caso contrario o else) permite esco entre dos acciones en realizarse.
+Las estructuras de control Dobles (si o if - caso contrario o else) permite escoger entre dos acciones a realizarse.
 
 ![https://github.com/Rodrigo1324/Trabajo-de-Recuperacion-Rodrigo-Borja/blob/master/Imagenes/Estructura%20de%20control%20alternativa%20doble.png](https://github.com/Rodrigo1324/Trabajo-de-Recuperacion-Rodrigo-Borja/blob/master/Imagenes/Estructura%20de%20control%20alternativa%20doble.png)
 
@@ -84,22 +84,22 @@ Las estructuras de control Dobles (si o if - caso contrario o else) permite esco
 REPETITIVAS
 -----------
 
-La sentencia repetir hasta (while), realiza la acción las cuantas veces sea si la condición que se dio para este sea verdadera, deja de hacerse si llega no cumplir su condición(que sea falsa).
+La sentencia repetir hasta (while), realiza la acción en base a cuantas veces sea si la condición que se dio para este sea "verdadera",caso contrario deja de hacerse si llega a no cumplir su condición "falsa".
 
 ![https://github.com/Rodrigo1324/Trabajo-de-Recuperacion-Rodrigo-Borja/blob/master/Imagenes/Repetitiva%20Mientras.png](https://github.com/Rodrigo1324/Trabajo-de-Recuperacion-Rodrigo-Borja/blob/master/Imagenes/Repetitiva%20Mientras.png)
 
 *Figura 6. Estructura de control Repetitiva.*
 
-**3.3 Pajaro**
+**3.3 Pájaro**
 --------------------
 
 ![https://github.com/Rodrigo1324/Trabajo-de-Recuperacion-Rodrigo-Borja/blob/master/Imagenes/Pajaro.png](https://github.com/Rodrigo1324/Trabajo-de-Recuperacion-Rodrigo-Borja/blob/master/Imagenes/Pajaro.png)
 
 *Figura 7. Pajaro.*
 
-Pajaro es un aplicativo que enseña el uso correcto de las sentencias previamente vistas y controlar la ejecución correcta(este se llama el flujo de control) de las condiciones que podemos interactuar.
+Pájaro es un aplicativo que enseña el uso correcto de las sentencias previamente vistas y a controlar la ejecución correcta( denominado flujo de control) de las condiciones que podemos interactuar.
 
-En este nivel se puede encontrar Expresiones Logicas para controlar las condiciones de nuestras sentencias (> y <) y además, el uso de una expresión relacional que es el operador logico conjunción (y) donde este realiza la comparación de dos condiciones y para que realice la sentencia debe estas cumplirse en ambas para que entre a ejecutarse la acción dentro de la sentencia.
+En este nivel se puede encontrar Expresiones Lógicas para controlar las condiciones de nuestras sentencias (> y <) y además, el uso de una expresión relacional que es el operador lógico conjunción (y) donde este realiza la comparación de dos condiciones, para que realice la sentencia debe estas cumplirse en ambas.Por lo cual;se iniciara a ejecutar la acción dentro de la sentencia.
 
 ![https://github.com/Rodrigo1324/Trabajo-de-Recuperacion-Rodrigo-Borja/blob/master/Imagenes/condiciones.png](https://github.com/Rodrigo1324/Trabajo-de-Recuperacion-Rodrigo-Borja/blob/master/Imagenes/condiciones.png)
 
@@ -116,7 +116,7 @@ En este nivel se puede encontrar Expresiones Logicas para controlar las condicio
 
 *Figura 10. Tortuga.*
 
-Tortuga es una profundización de las sentencias de repetición, ahora con una sentencia (for) que realiza un bucle con la ayuda de un contador o índice que controla las veces que se va realizar el bloque de acciones que tiene este mismo.
+Tortuga es una profundización de las sentencias de repetición, ahora con una sentencia "for" que produce un bucle con la ayuda de un contador o índice que controla las veces que se va a realizar el bloque de acciones que tiene este mismo.
 
 ![https://github.com/Rodrigo1324/Trabajo-de-Recuperacion-Rodrigo-Borja/blob/master/Imagenes/Sentencia%20for.png](https://github.com/Rodrigo1324/Trabajo-de-Recuperacion-Rodrigo-Borja/blob/master/Imagenes/Sentencia%20for.png)
 
@@ -129,20 +129,20 @@ Tortuga es una profundización de las sentencias de repetición, ahora con una s
 
 *Figura 12. Pelicula.*
 
-Pelicula es un aplicativo donde enseña el uso de las operaciones matematicas con expresiones aritmeticas como son (+; -; *; /; ^) para la animación de objetos en un tiempo determinado.
+Película es un aplicativo donde instruye el uso de las operaciones matemáticas con expresiones aritméticas como son: (+; -; *; /; ^) para la animación de objetos en un tiempo determinado.
 
 ![https://github.com/Rodrigo1324/Trabajo-de-Recuperacion-Rodrigo-Borja/blob/master/Imagenes/Operaciones%20matematicas.png](https://github.com/Rodrigo1324/Trabajo-de-Recuperacion-Rodrigo-Borja/blob/master/Imagenes/Operaciones%20matematicas.png)
 
 *Figura 13. Operaciones Matemáticas en el nivel de Pelicula.*
 
-**3.6 Musica**
+**3.6 Música**
 --------------------
 
 ![https://github.com/Rodrigo1324/Trabajo-de-Recuperacion-Rodrigo-Borja/blob/master/Imagenes/Musica.png](https://github.com/Rodrigo1324/Trabajo-de-Recuperacion-Rodrigo-Borja/blob/master/Imagenes/Musica.png)
 
 *Figura 14. Musica.*
 
-Musica es un juego que enfoca en el aprendizaje del uso de funciones, este mismo trata de realizar una función aparte del programa que se ejecuta y cuando nosotros queramos le llamamos a la función mediante su nombre las cuantas veces que deseamos que interactue en el procedimiento principal. 
+Música es un juego que enfoca el aprendizaje del uso de funciones; donde este mismo trata de realizar una función aparte del programa que se ejecuta y cuando nosotros queramos le llamamos a la función mediante su nombre dependiendo las veces que deseamos que interactue en el procedimiento principal. 
 
 ![https://github.com/Rodrigo1324/Trabajo-de-Recuperacion-Rodrigo-Borja/blob/master/Imagenes/Funciones.png](https://github.com/Rodrigo1324/Trabajo-de-Recuperacion-Rodrigo-Borja/blob/master/Imagenes/Funciones.png)
 
@@ -155,7 +155,7 @@ Musica es un juego que enfoca en el aprendizaje del uso de funciones, este mismo
 
 *Figura 16. Tutor del Estanque.*
 
-Tutor del estanque es la recopilación de todo lo visto en los anteriores niveles pero ahora cada nivel de este tutor del estanque va estar variando para ejecutarlas en base a texto y en bloques.
+Tutor del estanque es la recopilación de todo lo visto en los anteriores aplicativos, pero ahora cada nivel de este "tutor del estanque" va estar variando para ejecutarlas en base a texto y a bloques para la realización del programa.
 
 ![https://github.com/Rodrigo1324/Trabajo-de-Recuperacion-Rodrigo-Borja/blob/master/Imagenes/Tutor%20del%20estanque%2010.png](https://github.com/Rodrigo1324/Trabajo-de-Recuperacion-Rodrigo-Borja/blob/master/Imagenes/Tutor%20del%20estanque%2010.png)
 
@@ -168,7 +168,7 @@ Tutor del estanque es la recopilación de todo lo visto en los anteriores nivele
 
 *Figura 18. Estanque.*
 
-Estanque es una interacción de todo los conocimientos adquiridos por los niveles ya cursados, y consiste en ejecutarlas para interactuar entre 3 patos mas y derrotarlos.
+Estanque es una interacción de todo los conocimientos adquiridos por los aplicativos ya cursados, y este consiste en ejecutarlas para interactuar entre "3 patos" más y derrotarlos.
 
 **4. DIAGRAMA**
 
@@ -200,11 +200,11 @@ Estanque es una interacción de todo los conocimientos adquiridos por los nivele
 
 **7. ANÁLISIS DE RESULTADOS**
 
-Dentro del Analisis de Resutados, cabe recalcar que mediante en los juegos se puede cometerse algunos errores que son: Sintaxis, Logico y Compilación.
-Los errores de Sintaxis son aquellos cometidos en el escrito del codigo.
-Los errores Logicos son aquellos que tienden al infinito (bucles), en las sentencias repetitivas.
+Dentro del Analisis de Resutados, cabe recalcar que mediante los juegos se puede cometer algunos errores que son: Sintáxis, Lógico y Compilación.
+Los errores de Sintáxis son aquellos cometidos en el escrito del código.
+Los errores Lógicos son aquellos que tienden al infinito "bucles", en las sentencias repetitivas.
 Los errores de Compilación donde los pasos de ejecución no deja emplearlo.
-Enfrente a estos errores es necesario aprender el motivo a que se presentan, posteriormente cambiar algun parámetro puesto en la ejecución del programa para que no suceda.
+En vista de estos errores es necesario aprender el motivo a que se presentan, posteriormente cambiar algún parámetro puesto en la ejecución del programa para que no suceda.
 
 **8. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN**
 
@@ -213,17 +213,17 @@ Enfrente a estos errores es necesario aprender el motivo a que se presentan, pos
 
 **9. CONCLUSIONES**
 
-- La plataforma de Blockly Games es un excelente plataforma orientada al aprendizaje de los parametros basicos que tiene la programación dando interacciones dinamicas al usuario y dando al final una ejecución libre para el uso de todo lo aprendido de las aplicaciones que en esta plataforma  se presenta
+- La plataforma de Blockly Games es una excelente plataforma orientada al aprendizaje de los parámetros básicos que tiene la programación dando interacciones dinámicas al usuario y dando al final una ejecución libre para el uso de todo lo aprendido de las aplicaciones que en este programa se presenta.
 
-- Blockly Games es una plataforma con una serie de juegos educativos que enseñan programación con una orientación a brindar a los jugadores la capacidad de usar lenguajes convencionales basados en texto.
+- Blockly Games es una plataforma con una serie de juegos educativos que enseñan programación con una guía que brinda a los jugadores la capacidad de usar lenguajes convencionales basados en texto.
 
-- Blockly Games esta en una fase beta de sus juegos educativos dando por entender que puede existir diferentes cambios de estos hasta un lanzamiento oficial y estable.
+- Blockly Games se encuentra en una "fase beta" de sus juegos educativos dando por entender que puede existir diferentes cambios de estos hasta un lanzamiento oficial y estable.
 
 **10.RECOMENDACIONES**
 
-- En algunos juegos que presenta la plataforma de Blockly Games podrían resultar dificultosos por lo cual lo aconsejable sería comprender en profundidad las estructuras de control que estan presentes y como estos se ejecutan.
+- En algunos juegos que presenta la plataforma "Blockly Games" podrían resultar dificultosos,por lo cual; lo aconsejable sería comprender en profundidad las estructuras de control que estan presentes y como estos se ejecutan.
 
-- Blockly Games brinda al final de ciertas aplicaciones una interaccipon libre para que el usario emplee los conocimientos adquiridos y ejecute diferentes sentencias para crear algo nuevo usando su imaginación.
+- Blockly Games brinda al final de ciertas aplicaciones una interacción libre para que el usuario emplee los conocimientos adquiridos y ejecute diferentes sentencias para crear algo nuevo usando su imaginación.
 
 **11. CRONOGRAMA**
 
