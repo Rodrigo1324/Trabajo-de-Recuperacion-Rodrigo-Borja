@@ -202,9 +202,13 @@ Estanque es una interacción de todo los conocimientos adquiridos por los aplica
 **7. ANÁLISIS DE RESULTADOS**
 
 Dentro del Analisis de Resutados, cabe recalcar que mediante los juegos se puede cometer algunos errores que son: Sintáxis, Lógico y Compilación.
+
 Los errores de Sintáxis son aquellos cometidos en el escrito del código.
+
 Los errores Lógicos son aquellos que tienden al infinito "bucles", en las sentencias repetitivas.
+
 Los errores de Compilación donde los pasos de ejecución no deja emplearlo.
+
 En vista de estos errores es necesario aprender el motivo a que se presentan, posteriormente cambiar algún parámetro puesto en la ejecución del programa para que no suceda.
 
 **8. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN**
@@ -214,7 +218,7 @@ En vista de estos errores es necesario aprender el motivo a que se presentan, po
 
 **9. CONCLUSIONES**
 
-- La plataforma de Blockly Games es una excelente plataforma orientada al aprendizaje de los parámetros básicos que tiene la programación dando interacciones dinámicas al usuario y dando al final una ejecución libre para el uso de todo lo aprendido de las aplicaciones que en este programa se presenta.
+- La plataforma de Blockly Games es un excelente programa orientado al aprendizaje de los parámetros básicos que tiene la programación dando interacciones dinámicas al usuario y obreciendo al final una ejecución libre para el uso de todo lo aprendido de las aplicaciones que en este programa presente.
 
 - Blockly Games es una plataforma con una serie de juegos educativos que enseñan programación con una guía que brinda a los jugadores la capacidad de usar lenguajes convencionales basados en texto.
 
