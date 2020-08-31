@@ -57,7 +57,7 @@ Rompecabezas esta diseñado para el aprendizaje del dinamismo de la página web,
 
 *Figura 3. Laberinto.*
 
-Laberinto es una introduccián a las sentencias, estructuras de control como: Alternativas, Repetitiva; y como estos se relacionan con la ejecución de cada programa. Aumentando la dificultad de este aplicativo situando al usuario en dichas sentencias.
+Laberinto es una introducción a las sentencias, estructuras de control como: Alternativas, Repetitiva; y como estos se relacionan con la ejecución de cada programa. Aumentando la dificultad de este aplicativo situando al usuario en dichas sentencias.
 
 ALTERNATIVAS
 ------------
