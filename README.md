@@ -4,7 +4,7 @@ Rodrigo Borja
 
 **1. PLANTEAMIENTO DEL PROBLEMA**
 
-Este trabajo esta orientado el uso de las opciones presentadas en la plataforma "Blockly Games" con lo cual, estos mismos tienen relación a la utilización de  las aplicaciones centradas en la programación de objetos manejando interacciones sencillas y enlazando estas a un aprendizaje de estructuras de control, funciones Matematicas, funciones y concluyendo a la interacción en lineas de código.
+Este trabajo esta orientado el uso de las opciones presentadas en la plataforma "Blockly Games" con lo cual, estos mismos tienen relación a la utilización de  las aplicaciones centradas en la programación de objetos manejando interacciones sencillas y enlazando estas a un aprendizaje de estructuras de control, funciones Matemáticas, funciones y concluyendo a la interacción en líneas de código.
 
 **2. OBJETIVOS**
 
