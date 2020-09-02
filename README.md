@@ -194,10 +194,11 @@ Estanque es una interacción de todo los conocimientos adquiridos por los aplica
 *Figura 23.Musica nivel 10 galeria.* 
 
 **5. Lista de componentes**
----------------------------
-  ![]()
 
-
+ En esta sección se puede encontrar el link de la pagina web "Blockly Games"
+ 
+ https://blockly.games/?lang=es
+ 
 
 **7. ANÁLISIS DE RESULTADOS**
 
@@ -237,6 +238,7 @@ En vista de estos errores es necesario aprender el motivo a que se presentan, po
 *Figura 24. Cronograma de la distribución de actividades.*
 
 **12. BIBLIOGRAFÍA**
+
 •	Granizo, E. (2015). Lenguaje C. Quito: Universidad de las Fuerzas Armadas-ESPE. Recuperado de: file:///C:/Users/Rodrigo%20Borja/Documents/Nivel%202/Fun.%20Programaci%C3%B3n/Lenguaje%20C,%20teor%C3%ADa%20y%20pr%C3%A1ctica.pdf.
 
 https://blockly.games/about?lang=es
